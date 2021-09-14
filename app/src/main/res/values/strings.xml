@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ContentResolver</string>
+    <string name="title">Title</string>
+    <string name="artist">Artist</string>
+    <string name="time">00:00</string>
+</resources>
